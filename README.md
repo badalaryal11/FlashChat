@@ -9,6 +9,8 @@
    RegisterScreen
   <img src="https://github.com/user-attachments/assets/984da0f6-ea03-4052-9a7f-b38e5619a738" alt="Image 2" width="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   LoginScreen
   <img src="https://github.com/user-attachments/assets/e6895692-6fae-46b2-8c30-bce126407af0" alt="Image 3" width="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
