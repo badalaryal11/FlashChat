@@ -7,22 +7,19 @@
   <img src="https://github.com/user-attachments/assets/523feaae-a131-40a8-b99b-859286a349d6" alt="Image 1" width="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <figcaption> WelcomeScreen</figcaption>
-   RegisterScreen
+   
   <img src="https://github.com/user-attachments/assets/984da0f6-ea03-4052-9a7f-b38e5619a738" alt="Image 2" width="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-   LoginScreen
+   <figcaption>RegisterScreen</figcaption>
   <img src="https://github.com/user-attachments/assets/e6895692-6fae-46b2-8c30-bce126407af0" alt="Image 3" width="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-   Chatscreen
+   <figcaption>LoginScreen</figcaption>
     <img src="https://github.com/user-attachments/assets/192b36b0-d50b-4c61-9dda-829553ea3160" alt="Image 3" width="200"/>
+    <figcaption>ChatScreen</figcaption>
 </figure>
 
 
 
 
-<figure>
-    <img src='image.jpg' alt='missing' />
-    <figcaption>Caption goes here</figcaption>
-</figure>
 
 
