@@ -5,6 +5,7 @@
 <figure>
  
   <img src="https://github.com/user-attachments/assets/523feaae-a131-40a8-b99b-859286a349d6" alt="Image 1" width="200"/>
+  <div class="caption">WelcomeScreen</div>
   
   <figcaption> WelcomeScreen</figcaption>
     &nbsp;&nbsp;&nbsp;&nbsp;
