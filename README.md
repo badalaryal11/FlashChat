@@ -5,8 +5,8 @@
 <p align="center">
  
   <img src="https://github.com/user-attachments/assets/523feaae-a131-40a8-b99b-859286a349d6" alt="Image 1" width="200"/>
-  <figcaption> WelcomeScreen</figcaption>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <figcaption> WelcomeScreen</figcaption>
    RegisterScreen
   <img src="https://github.com/user-attachments/assets/984da0f6-ea03-4052-9a7f-b38e5619a738" alt="Image 2" width="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
