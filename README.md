@@ -9,7 +9,7 @@
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/e6895692-6fae-46b2-8c30-bce126407af0" alt="LoginScreen" width="200" />
   &nbsp;&nbsp;
-   <img src="https://github.com/user-attachments/assets/192b36b0-d50b-4c61-9dda-829553ea3160" alt="ChatScreen" width="200" />
+   <img src="https://github.com/user-attachments/assets/192b36b0-d50b-4c61-9dda-829553ea3160" alt="ChatScreen" width="200" align="centre" />
     
 </p>
 
