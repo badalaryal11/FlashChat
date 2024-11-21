@@ -3,15 +3,16 @@
 * Features: Real-time messaging, Chat with different people, Secure user authentication
 * Contribution: Led the end-to-end development, implemented firestore, and ensured seamless message delivery.
 <p align="centre">
-  <img src="https://github.com/user-attachments/assets/523feaae-a131-40a8-b99b-859286a349d6" alt="WelcomeScreen"  width="200"/>
+  <img src="https://github.com/user-attachments/assets/85950f83-0425-4ed5-ac57-7dbff42d8f62" alt="WelcomeScreen"  width="200"/>
  
-  <img src="https://github.com/user-attachments/assets/984da0f6-ea03-4052-9a7f-b38e5619a738" alt="RegisterScreen" width="200" />
+  <img src="https://github.com/user-attachments/assets/93e2e108-18d4-4797-ac60-91baba83e635" alt="RegisterScreen" width="200" />
 
-  <img src="https://github.com/user-attachments/assets/e6895692-6fae-46b2-8c30-bce126407af0" alt="LoginScreen" width="200" />
+  <img src="https://github.com/user-attachments/assets/8172eff4-02e5-489f-82f4-f6954bf0f566" alt="LoginScreen" width="200" />
  
-   <img src="https://github.com/user-attachments/assets/192b36b0-d50b-4c61-9dda-829553ea3160" alt="ChatScreen" width="200" align="centre" />
+   <img src="https://github.com/user-attachments/assets/13d56aac-97a1-412c-ba77-85e038dc62d1" alt="ChatScreen" width="200" align="centre" />
     
 </p>
+
 
 
 
