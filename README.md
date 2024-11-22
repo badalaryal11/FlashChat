@@ -10,8 +10,9 @@
 
   <img src="https://github.com/user-attachments/assets/8172eff4-02e5-489f-82f4-f6954bf0f566" alt="LoginScreen" width="300" />
  
-   <img src="https://github.com/user-attachments/assets/13d56aac-97a1-412c-ba77-85e038dc62d1" alt="ChatScreen" width="300"  />
-    
+  <div style="text-align:center;">
+  <img src="https://github.com/user-attachments/assets/13d56aac-97a1-412c-ba77-85e038dc62d1" alt="ChatScreen" width="300" />
+</div>
 </p>
 
 
